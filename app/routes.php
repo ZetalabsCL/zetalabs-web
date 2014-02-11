@@ -18,5 +18,5 @@ Route::get('/', function()
 
 Route::get('test', function()
 {
-  return 'Hola desde Laravel, por fin funciono!!'
+  return 'Hola desde Laravel, por fin funciono!!';
 });
