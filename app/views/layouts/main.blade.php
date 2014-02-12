@@ -23,19 +23,19 @@
   <link rel="apple-touch-icon-precomposed" href="img/ico/apple-touch-icon-57x57-precomposed.png">
 
   <!-- Google Web Fonts -->
-  <?php echo HTML::style('http://fonts.googleapis.com/css?family=Oswald:300'); ?>
+  {{ HTML::style('http://fonts.googleapis.com/css?family=Oswald:300'); }}
 
 
   <!-- Bootstrap CSS -->
-  <?php echo HTML::style('css/bootstrap.min.css'); ?>
+  {{ HTML::style('css/bootstrap.min.css'); }}
 
   <!-- Custom CSS -->
-  <?php echo HTML::style('css/style.css'); ?>
+  {{ HTML::style('css/style.css'); }}
 
 
   <!--[if lt IE 9]>
-  <?php echo HTML::script('http://html5shim.googlecode.com/svn/trunk/html5.js'); ?>
-    <?php echo HTML::script('http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js'); ?>
+  {{ HTML::script('http://html5shim.googlecode.com/svn/trunk/html5.js'); }}
+  {{ HTML::script('http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js'); }}
     <![endif]-->
 
 </head>
@@ -492,7 +492,7 @@
             <h2 class="page-title">CONTACTO <a class="to-top scroll-page" href="#home" title="Ir Arriba"><i class="icon-chevron-up"></i></a></h2>
           </div>
           <div class="span5">
-            <div class="well well-small"> <iframe width="100%" height="180" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.cl/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=New+York&amp;sll=-33.668298,-70.363372&amp;sspn=1.451545,2.90863&amp;ie=UTF8&amp;hq=&amp;hnear=Ram%C3%B3n+Freire+466,+Copiap%C3%B3,+Atacama&amp;ll=-27.359449,-70.350801&amp;spn=0.019517,0.018797&amp;z=16&amp;iwloc=near&amp;output=embed"></iframe> </div>
+            <div class="well well-small"> <iframe width="100%" height="180" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=Independencia,+Santiago,+Chile&hl=es-419&ie=UTF8&sll=37.0625,-95.677068&sspn=49.176833,92.988281&oq=independencia,+san&hnear=Independencia,+Santiago,+Regi%C3%B3n+Metropolitana,+Chile&t=m&z=16&amp;iwloc=near&amp;output=embed"></iframe> </div>
           </div>
           <div class="span3">
             <h4>Informacion de Contacto</h4>
@@ -506,11 +506,11 @@
             <h4>Contactanos</h4>
             <form class="form" id="contact-form">
               <!--[if IE]><label for="name">Name</label><![endif]-->
-              <input type="text" id="name" name="name" class="span3" style="margin-right:25px;" placeholder="Nombre">
+              <input type="text" id="name" name="name" class="span3" style="margin-right:25px;" placeholder="Nombre" required>
               <!--[if IE]><label for="email">E-mail</label><![endif]-->
-              <input id="email" type="text" class="span3" name="email" placeholder="Email">
+              <input id="email" type="text" class="span3" name="email" placeholder="Email" required>
               <!--[if IE]><label for="message">Message</label><![endif]-->
-              <textarea id="message" name="message" placeholder="Mensaje" class="span3" rows="7"></textarea>
+              <textarea id="message" name="message" placeholder="Mensaje" class="span3" rows="7" required></textarea>
               <button type="submit" class="btn btn-primary btn-small">Enviar Mensaje</button>
             </form>
           </div>
@@ -528,8 +528,10 @@
   <!--END: Footer-->
 
 <!-- Scripts -->
-<?php echo HTML::script('http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'); ?>
-<?php echo HTML::script('js/bootstrap.min.js'); ?>
-<?php echo HTML::script('js/custom.js'); ?>
+{{ HTML::script('http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'); }}
+{{ HTML::script('js/bootstrap.min.js'); }}
+{{ HTML::script('js/jquery.validate.min.js'); }}
+{{ HTML::script('js/custom.js'); }}
+
 </body>
 </html>

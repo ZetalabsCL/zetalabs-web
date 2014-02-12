@@ -174,3 +174,8 @@ pre {
 		text-align: center
 	}
 }
+
+/* Mensajes de Error */
+
+form label.error{display:inline;font:12px Tahoma,sans-serif;color:#C1001F;margin-left:5px;font-weight: bold;}
+form input.error,form input.error:hover,form input.error:focus,form select.error,form textarea.error{border:1px solid #C1001F;background:#FFEDED}
