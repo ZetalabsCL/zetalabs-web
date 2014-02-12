@@ -13,10 +13,5 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
-});
-
-Route::get('test', function()
-{
-  return 'Hola desde Laravel, por fin funciono!!';
+	return View::make('layouts.site');
 });
