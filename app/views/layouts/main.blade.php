@@ -172,47 +172,6 @@
               </li>
             </ul>
           </div>
-          <!-- <div class="span4">
-            <h3>Careers</h3>
-            <table class="table table-hover table-bordered table-striped layers">
-              <thead>
-                <tr>
-                  <th>#</th>
-                  <th>Job Opening <span class="label label-info">Place</span></th>
-                  <th>Action</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <td>1</td>
-                  <td>Creative Director <span class="label label-info">New York</span></td>
-                  <td><a href="#" class="btn btn-mini btn-primary">Apply</a></td>
-                </tr>
-              </tbody>
-              <tbody>
-                <tr>
-                  <td>2</td>
-                  <td>Sr. Designer <span class="label label-info">Ohio</span></td>
-                  <td><a href="#" class="btn btn-mini btn-primary">Apply</a></td>
-                </tr>
-              </tbody>
-              <tbody>
-                <tr>
-                  <td>3</td>
-                  <td>Sr. Developer <span class="label label-info">Phoenix</span></td>
-                  <td><a href="#" class="btn btn-mini btn-primary">Apply</a></td>
-                </tr>
-              </tbody>
-              <tbody>
-                <tr>
-                  <td>4</td>
-                  <td>iPhone Developer <span class="label label-info">New York</span></td>
-                  <td><a href="#" class="btn btn-mini btn-primary">Apply</a></td>
-                </tr>
-              </tbody>
-            </table>
-          </div>
-        </div> -->
       </article>
     </section>
     <!--END: About -->
@@ -228,19 +187,19 @@
         <div class="row">
           <div class="span4">
             <div class="well layers">
-              <h3>Amazing Features</h3>
-              <p>This theme has tons of amazing features. Tabs, lightbox, carausel and many more</p>
+              <h3>Desarrollo Web</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
             </div>
           </div>
           <div class="span4">
             <div class="well layers">
-              <h3>Responsive</h3>
+              <h3>Desarrollo Sistemas</h3>
               <p>This theme will work on any device any resolution. Cool...isn't it.</p>
             </div>
           </div>
           <div class="span4">
             <div class="well layers">
-              <h3>Top Notch Support</h3>
+              <h3>Soporte e Implementacion</h3>
               <p>If you're having any problems, I am ready to help. Totally free support.</p>
             </div>
           </div>
@@ -277,7 +236,7 @@
         <div class="row">
           <div class="span4">
             <div class="well">
-              <h2>Software Solutions & IT Services</h2>
+              <h2>Soluciones de Software & Servicios TI</h2>
               <p>Like you, we love building awesome products on the web. We love it so much, we decided to help people just like us do it easier, better, and faster. Bootstrap is built for you. This Biz theme is designed to help people of all skill levels designer or developer, huge nerd or early beginner.</p>
             </div>
           </div>
@@ -378,13 +337,13 @@
             <h2 class="page-title">PORTAFOLIO <a class="to-top scroll-page" href="#home" title="Ir Arriba"><i class="icon-chevron-up"></i></a></h2>
           </div>
           <div class="span12">
-            <p><strong>Select type of work:</strong></p>
+            <p><strong>Selecciona el tipo de trabajo:</strong></p>
             <ul class="nav nav-pills" id="work-tabs">
-              <li class="active"><a href="#work-featured" data-toggle="pill">Featured</a></li>
+              <li class="active"><a href="#work-featured" data-toggle="pill">Destacado</a></li>
               <li><a href="#work-web" data-toggle="pill">Web</a></li>
-              <li><a href="#work-print" id="print" data-toggle="pill">Print</a></li>
-              <li><a href="#work-mobile" data-toggle="pill">Mobile</a></li>
-              <li><a href="#work-illustration" data-toggle="pill">Illustrations</a></li>
+              <li><a href="#work-print" id="print" data-toggle="pill">Impresion</a></li>
+              <li><a href="#work-mobile" data-toggle="pill">Movil</a></li>
+              <li><a href="#work-illustration" data-toggle="pill">Ilustraciones</a></li>
             </ul>
             <div class="tab-content">
               <!--BEGIN: Work Featured-->
@@ -498,10 +457,10 @@
             <h4>Informacion de Contacto</h4>
             <p> <!--<i class="icon-user"></i> +1 888 8888 888<br> -->
               <i class="icon-envelope"></i> hola@zetalabs.cl<br>
-              <!--<i class="icon-map-marker"></i> 111th, North Ave, Suite 530, AZ </p>-->
+              <!--<i class="icon-map-marker"></i> Independencia, Santiago, Chile </p>-->
             <hr>
-            <h4>Text</h4>
-            <small> Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. </small> </div>
+            <h4>Nuestra Experiencia</h4>
+            <small> Nuestra experiencia la forjamos contigo, dinos que necesitas, nosotros te damos la solucion tecnologica a tu medida. </small> </div>
           <div class="span3">
             <h4>Contactanos</h4>
             <form class="form" id="contact-form">
