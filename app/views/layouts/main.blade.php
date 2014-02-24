@@ -188,48 +188,38 @@
           <div class="span4">
             <div class="well layers">
               <h3>Desarrollo Web</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod</p>
+              <p>Nos gusta la tecnologia, el diseño y los estandares, desarrollamos sitios web para nosotros, es decir, para nuestros clientes, pero que nosotros disfrutariamos y nos sentiriamos orgullosos. Sabemos acercar la tecnologia a las Pymes, el primer paso es un sitio web de calidad.</p>
             </div>
           </div>
           <div class="span4">
             <div class="well layers">
               <h3>Desarrollo Sistemas</h3>
-              <p>This theme will work on any device any resolution. Cool...isn't it.</p>
+              <p>Tu empresa es la informacion que manejas, y como la manejas. Nosotros desarrolamos soluciones tecnologicas que te ayudan a trabajar con esa informacion de la mejor manera, de una forma simple, intuitiva y amigable. Dinos que quieres, nosotros te decimos como.</p>
             </div>
           </div>
           <div class="span4">
             <div class="well layers">
               <h3>Soporte e Implementacion</h3>
-              <p>If you're having any problems, I am ready to help. Totally free support.</p>
+              <p>La tecnologia es parte de nuestra vida, sabemos entenderla y mejorarla, ten toda nuestra experiencia y conocimientos al servicio de tu empresa. Algun problema? estamos ahi para ayudarte y lograr que tu experiencia con la tecnologia sea de la mejor manera, sin contratiempos ni sorpresas.</p>
             </div>
           </div>
         </div>
         <div class="row">
           <div class="span4">
             <div class="alert alert-info layers">
-              <h5><i class="icon icon-briefcase"></i> Ultimate Theme</h5>
-              <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
+              <h5><i class="icon icon-briefcase"></i> Sitios web multiplataforma</h5>
+              <small>La web cambia a cada minuto, nosotros te ayudamos a seguir ese ritmo y desarrollamos sitios web multi-plataforma y multi-dispositivo que te permitan a ti y tus clientes disfrutar de la experiencia movil online.</small> </div>
           </div>
           <div class="span4">
-            <div class="alert alert-danger layers">
-              <h5><i class="icon icon-check"></i> Modern Design</h5>
-              <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
+            <div class="alert alert-warning layers">
+              <h5><i class="icon icon-briefcase"></i> Sistemas de Gestion</h5>
+              <small>Desarrollamos sistemas de gestion a la medida de tus necesidades y adaptados a tu realidad. Hacemos que tu sistema se adapte a ti, no que tu te adaptes a tu sistema.</small> </div>
           </div>
           <div class="span4">
             <div class="alert alert-success layers">
-              <h5><i class="icon icon-align-center"></i> Simple Layout</h5>
-              <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
+              <h5><i class="icon icon-align-center"></i> Soporte de Redes y Servidores</h5>
+              <small>Aprovecha al maximo las capacidades de tu empresa, nosotros te ayudamos, poniendo a la tecnologia de tu lado. Mantenemos Servidores y Redes de gran escala. </small> </div>
           </div>
-          <div class="span4">
-            <h5><i class="icon icon-eye-open"></i> Make Standout</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
-          <div class="span4">
-            <h5><i class="icon icon-facetime-video"></i> Attract Visitors</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
-          <div class="span4">
-            <h5><i class="icon icon-edit"></i> Easy to Customize</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
-        </div>
       </article>
       <article class="page">
 
@@ -353,7 +343,7 @@
                     <div class="action layers">
                       <div class="action-inside clearfix">
                         <h5>Project Name</h5>
-                        <a href="#" class="thumbnail"> <img src="http://placehold.it/520x380" alt=""> </a> </div>
+                        <a href="#" class="thumbnail" > <img src="http://placehold.it/520x380" alt=""> </a> </div>
                     </div>
                   </div>
                   <div class="span6">
