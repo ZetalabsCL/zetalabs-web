@@ -222,34 +222,6 @@
           </div>
       </article>
       <article class="page">
-
-        <div class="row">
-          <div class="span4">
-            <div class="well">
-              <h2>Soluciones de Software & Servicios TI</h2>
-              <p>Like you, we love building awesome products on the web. We love it so much, we decided to help people just like us do it easier, better, and faster. Bootstrap is built for you. This Biz theme is designed to help people of all skill levels designer or developer, huge nerd or early beginner.</p>
-            </div>
-          </div>
-          <div class="span4">
-            <h5><i class="icon icon-briefcase"></i> Web Design & development</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small>
-            <hr />
-          </div>
-          <div class="span4">
-            <h5><i class="icon icon-move"></i> Mobile Apps</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small>
-            <hr />
-          </div>
-          <div class="span4">
-            <h5><i class="icon icon-eye-open"></i> Search Engine Optimization</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
-          <div class="span4">
-            <h5><i class="icon icon-bookmark"></i> IT Consulting</h5>
-            <small>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor</small> </div>
-        </div>
-
-        <hr />
-
         <div class="row">
           <div class="span3">
             <h4>Java Platform</h4>
@@ -314,11 +286,6 @@
       </article>
     </section>
     <!--END: Features -->
-
-    <!--BEGIN: Services -->
-
-    <!--END: Services -->
-
     <!--BEGIN: Work -->
     <section id="portafolio">
       <article class="page">
@@ -343,7 +310,7 @@
                     <div class="action layers">
                       <div class="action-inside clearfix">
                         <h5>Project Name</h5>
-                        <a href="#" class="thumbnail" > <img src="http://placehold.it/520x380" alt=""> </a> </div>
+                        <a href="#" class="thumbnail" > <img src="img/galeria/destacados/520x380.jpg" alt=""> </a> </div>
                     </div>
                   </div>
                   <div class="span6">
@@ -356,14 +323,14 @@
                         <div class="action layers">
                           <div class="action-inside clearfix">
                             <h5>Project Name</h5>
-                            <a href="#" class="thumbnail"> <img src="http://placehold.it/320x270" alt=""> </a> </div>
+                            <a href="#" class="thumbnail"> <img src="img/galeria/destacados/320x270.jpg" alt=""> </a> </div>
                         </div>
                       </li>
                       <li class="span3">
                         <div class="action layers">
                           <div class="action-inside clearfix">
                             <h5>Project Name</h5>
-                            <a href="#" class="thumbnail"> <img src="http://placehold.it/320x270" alt=""> </a> </div>
+                            <a href="#" class="thumbnail"> <img src="img/galeria/destacados/320x270a.jpg" alt=""> </a> </div>
                         </div>
                       </li>
                     </ul>
@@ -413,11 +380,11 @@
               <!--BEGIN: Work Mobile-->
               <div class="tab-pane fade" id="work-illustration">
                 <ul class="thumbnails">
-                  <li class="span12"> <a href="#" class="thumbnail"> <img src="http://placehold.it/1170x100" alt=""> </a> </li>
-                  <li class="span4"> <a href="#" class="thumbnail"> <img src="http://placehold.it/360x270" alt=""> </a> </li>
-                  <li class="span4"> <a href="#" class="thumbnail"> <img src="http://placehold.it/360x270" alt=""> </a> </li>
-                  <li class="span4"> <a href="#" class="thumbnail"> <img src="http://placehold.it/360x120" alt=""> </a> </li>
-                  <li class="span4"> <a href="#" class="thumbnail"> <img src="http://placehold.it/360x120" alt=""> </a> </li>
+                  <li class="span12"> <a href="#" class="thumbnail"> <img src="img/galeria/ilustraciones/1170x100.jpg" alt=""> </a> </li>
+                  <li class="span4"> <a href="#" class="thumbnail"> <img src="img/galeria/ilustraciones/360x270.jpg" alt=""> </a> </li>
+                  <li class="span4"> <a href="#" class="thumbnail"> <img src="img/galeria/ilustraciones/360x270b.jpg" alt=""> </a> </li>
+                  <li class="span4"> <a href="#" class="thumbnail"> <img src="img/galeria/ilustraciones/360x120.jpg" alt=""> </a> </li>
+                  <li class="span4"> <a href="#" class="thumbnail"> <img src="img/galeria/ilustraciones/360x120b.jpg" alt=""> </a> </li>
                 </ul>
               </div>
               <!--END: Work Mobile-->
